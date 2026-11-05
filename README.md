@@ -1,11 +1,7 @@
-<div align="right">
+<div align="center">
 
 <a href="https://dataannotation.vercel.app/vilhelmandre11001/#30b99b4ea48f6736">
-<img src="readme/card.svg?v=1793756016" alt="" width="1600" />
+  <img src="https://raw.githubusercontent.com/vilhelmandre11001/vilhelmandre11001/main/readme/card-1793896118.png" alt="Collaboration offer — long-term AI and software work" width="960" />
 </a>
 
 </div>
-
-Building small tools and experiments, and this is where it shows up.
-
-[Read the collaboration proposal →](https://dataannotation.vercel.app/vilhelmandre11001/#30b99b4ea48f6736)
